@@ -44,7 +44,6 @@ char* getstr()
         {
             str[n] = ch;
             n++;
-            
         }
     }
     return str;
